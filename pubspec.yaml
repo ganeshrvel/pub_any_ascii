@@ -1,6 +1,6 @@
 name: any_ascii
 description: Unicode to ASCII transliteration for Dart, ported from the anyascii project.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/ganeshrvel/pub_any_ascii
 
 environment:
