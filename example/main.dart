@@ -20,4 +20,5 @@ void main() {
   print(anyAsciiChar('👑')); // :crown:
   print(anyAsciiChar('ж')); // zh
   print(anyAsciiChar('λ')); // l
+  print(anyAscii('Ελλάδα')); // Ellada
 }
