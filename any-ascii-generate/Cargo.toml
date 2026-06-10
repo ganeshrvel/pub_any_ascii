@@ -1,0 +1,25 @@
+[package]
+name = "any-ascii-generate"
+description = "Generator for any_ascii Dart package data"
+version = "0.1.0"
+edition = "2024"
+authors = ["Ganesh Rathinavel <ganeshrvel@outlook.com>"]
+publish = false
+license = "MIT"
+repository = "https://github.com/ganeshrvel/pub_any_ascii"
+homepage = "https://github.com/ganeshrvel/pub_any_ascii"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["Ganesh Rathinavel <ganeshrvel@outlook.com>"]
+publish = false
+repository = "https://github.com/ganeshrvel/pub_any_ascii"
+homepage = "https://github.com/ganeshrvel/pub_any_ascii"
+
+[dependencies]
+any_ascii.workspace = true
+
+[workspace.dependencies]
+any_ascii = "0.3.3"

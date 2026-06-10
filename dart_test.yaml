@@ -1,0 +1,2 @@
+## Run all test files in a single VM instance, serialized.
+#concurrency: 1
